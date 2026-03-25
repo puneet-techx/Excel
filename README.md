@@ -1,10 +1,11 @@
 📊 Sales Analysis Dashboard (Excel)
 A professional and interactive Sales Analysis Dashboard built using Microsoft Excel to deliver clear, data-driven insights into business performance. The dashboard enables detailed analysis across key dimensions such as products, GST taxation, firms, and regions.
-<a href="https://github.com/puneet-techx/Excel/blob/main/Sales%20Analysis%20Dashboard.xlsx">Dataset view</a>
+
+Excel Sheet : <a href="https://github.com/puneet-techx/Excel/blob/main/Sales%20Analysis%20Dashboard.xlsx">Dataset view</a>
 
 🔍 Overview
 The dashboard uses dynamic slicers to filter data by Product, Month, GST Rate, Firm, and State, enabling quick and flexible analysis.
-- Dashboard<a href="https://github.com/puneet-techx/Excel/blob/main/Sales%20Dashboard%20Image.png">Dashboard view</a>
+- Dashboard : <a href="https://github.com/puneet-techx/Excel/blob/main/Sales%20Dashboard%20Image.png">Dashboard view</a>
 <img width="1722" height="687" alt="Sales Dashboard Image" src="https://github.com/user-attachments/assets/10844349-8ce3-478d-82e7-555278e903b7" />
 
 
